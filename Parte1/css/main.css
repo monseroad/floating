@@ -1,0 +1,22 @@
+#contenedor{
+	width: auto;
+	border: 1px solid black;
+
+}
+.uno{
+	width: 25%;
+	height: 100px;
+	background-color: #FFFF66;
+}
+.dos{
+	width: 25%;
+	height: 100px;
+	background-color: #99FFCC;
+	
+}
+.tres{
+	width: 25%;
+	height: 100px;
+	background-color: #CC6666;
+	
+}
